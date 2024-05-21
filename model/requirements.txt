@@ -1,0 +1,5 @@
+pdf2image
+streamlit==1.29.0
+pillow
+transformers
+pytesseract
